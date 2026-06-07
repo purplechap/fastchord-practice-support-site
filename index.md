@@ -1,3 +1,7 @@
+---
+theme: jekyll-theme-cayman
+---
+
 # fastchord-practice-support-site
 
 Public support/configuration pages for the FastChords iOS and Android apps.
